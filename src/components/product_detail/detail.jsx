@@ -75,7 +75,7 @@ export const Detail = ({ convertPrice, cart, setCart }) => {
             </div>
 
             <div className={styles.delivery}>
-              <p>택배배송 / 무료배송</p>
+              <p>가격은 발매일입니다.</p>
             </div>
 
             <div className={styles.line}></div>

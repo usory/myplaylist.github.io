@@ -27,7 +27,7 @@ export const CartList = ({
           <p className={styles.seller_store}>{cart.provider}</p>
           <p className={styles.product_name}>{cart.name}</p>
           <p className={styles.price}>{convertPrice(cart.price)}원</p>
-          <p className={styles.delivery}>택배배송 / 무료배송</p>
+          <p className={styles.delivery}>무료배송</p>
         </div>
       </div>
 

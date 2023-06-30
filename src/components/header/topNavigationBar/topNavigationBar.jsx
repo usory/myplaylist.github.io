@@ -11,8 +11,8 @@ export const TopNavigationBar = ({ cart }) => {
           </h1>
         </Link>
         <div className={styles.input_wrap}>
-          <input type="text" placeholder="상품을 검색해보세요!" />
-          <img src="/images/icon-search.svg" alt="search" />
+          <input type="text" placeholder="듣고 싶은 노래를 검색해보세요!" />
+          <img src="/images/search.png" alt="search" />
         </div>
       </div>
 
